@@ -42,7 +42,7 @@ While FX-Portal focuses on permissionlessness and flexibility, a developer might
 
 #### Can I build my own custom bridge?
 
-Yes. You can check docs here: https://wiki.polygon.technology/docs/pos/design/bridge/l1-l2-communication/fx-portal/
+Yes. You can check docs here: https://docs.polygon.technology/pos/how-to/bridging/l1-l2-communication/
 
 ### What can I build with FX-Portal?
 
